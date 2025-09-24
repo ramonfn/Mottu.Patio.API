@@ -59,9 +59,6 @@ Principais pontos do projeto:
    ```sh
    dotnet ef database update
    ```
-6. Rode o projeto:
-   ```
-   F5
-   ```
+6. Rode o projeto: **F5**
 
 <p align="right"><a href="#readme-top">Voltar ao topo</a></p>
