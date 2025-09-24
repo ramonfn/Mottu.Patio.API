@@ -44,7 +44,7 @@ Principais pontos do projeto:
 ### 🗃️ Instalação
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-repositorio/Mottu.Patio.API.git
+   git clone https://github.com/ramonfn/Mottu.Patio.API.git
    ```
 2. Acesse a pasta:
    ```sh
@@ -60,12 +60,8 @@ Principais pontos do projeto:
    dotnet ef database update
    ```
 6. Rode o projeto:
-   ```sh
-   dotnet run --project Mottu.Patio.API
    ```
-7. Acesse o Swagger em:
-   ```
-   https://localhost:5001/swagger
+   F5
    ```
 
 <p align="right"><a href="#readme-top">Voltar ao topo</a></p>
